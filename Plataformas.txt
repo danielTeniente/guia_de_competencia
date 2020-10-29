@@ -1,0 +1,17 @@
+Repositorios que visitar:
+https://github.com/danielTeniente/SPOJ
+https://github.com/danielTeniente/codeForces
+
+
+Juez en línea con lista de problemas resueltos:
+http://acm.hdu.edu.cn/userloginex.php
+
+AIZU ONLINE JUDGE: Buenas estadístiicas de usuario.
+https://onlinejudge.u-aizu.ac.jp/status/users/E869120
+
+
+A2 Online Judge: Archivo de problemas
+https://a2oj.com/Categories.jsp
+
+Lista completa de Websites útiles:
+https://codeforces.com/blog/entry/23054
