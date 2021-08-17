@@ -8,8 +8,8 @@ en búsqueda de mejores programadores y mejores prácticas.
 
 ## Temario
 * [Tema 1: BackTracking](./Backtraking/Readme.md)
-* [Tema 2: BitMask](./BitMask)
-* [Tema 3: Complejidad algorítmica](./Complejidad)
+* [Tema 2: BitMask](./BitMask/Readme.md)
+* [Tema 3: Complejidad algorítmica](./Complejidad/Readme.md)
 * [Tema 4: Ordenar listas](./Sorting)
 * [Tema 5: Busqueda binaria](./BusquedaBinaria)
 * [Tema 6: Programación dinámica](./DP)
