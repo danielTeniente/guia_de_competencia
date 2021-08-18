@@ -12,10 +12,10 @@ en búsqueda de mejores programadores y mejores prácticas.
 * [Tema 3: Complejidad algorítmica](./Complejidad/Readme.md)
 * [Tema 4: Ordenar listas](./Sorting/Readme.md)
 * [Tema 5: Busqueda binaria](./BusquedaBinaria/Readme.md)
-* [Tema 6: Programación dinámica](./DP/Readme.md)`
-* [Tema 7: Problemas NP-Hard](./NP/Readme.md)`
-* [Tema 8: Algoritmos Las vegas](./Vegas/Readme.md)`
-* [Tema 9: Manejo de Strings](./Strings/Readme.md)`
+* [Tema 6: Programación dinámica](./DP/Readme.md)
+* [Tema 7: Problemas NP-Hard](./NP/Readme.md)
+* [Tema 8: Algoritmos Las vegas](./Vegas/Readme.md)
+* [Tema 9: Manejo de Strings](./Strings/Readme.md)
 
 
 ## Referencias
