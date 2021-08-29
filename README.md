@@ -16,6 +16,7 @@ en búsqueda de mejores programadores y mejores prácticas.
 * [Tema 7: Problemas NP-Hard](./NP/Readme.md)
 * [Tema 8: Algoritmos Las vegas](./Vegas/Readme.md)
 * [Tema 9: Manejo de Strings](./Strings/Readme.md)
+* [Tema 10: Matemática](./Matematica/Readme.md)
 
 
 ## Referencias
