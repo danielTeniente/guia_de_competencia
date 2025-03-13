@@ -25,3 +25,5 @@ Esta serie de notebooks está basada en el libro:
 
 Escribí un libro de divulgación sobre competencias de programación donde trato los problemas con un lenguaje más sencillo:
 * [Un mundo muy complejo](https://payhip.com/b/miKIt)
+🤖 Mi libro sobre inteligencia artificial
+* [Atrapado en redes neuronales](https://payhip.com/b/Vtn4Z)
